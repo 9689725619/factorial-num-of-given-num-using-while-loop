@@ -1,0 +1,1 @@
+# factorial-num-of-given-num-using-while-loop
